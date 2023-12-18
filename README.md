@@ -2,6 +2,7 @@
 - Location: Puchong, Selangor, Malaysia
 - Phone: 0173660174
 - Email: akifmdnor@yahoo.com
+- Resume : https://akifmdnor.github.io/
 ## Skills
 - React.js
 - Laravel
